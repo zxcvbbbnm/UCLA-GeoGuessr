@@ -1,5 +1,5 @@
 # UCLA Geoguesser
-## by Yamm Elnekave, Xiaohan Song, Rakil Kim, Cixuan Zhang
+## by Yamm Elnekave, Xiaohan Song, Rakil Kim, Cixuan Zhang, Neiro Cabrera
 
 Welcome to UCLA Geoguesser, an engaging game where you're presented with multiple photos of locations on campus, and it's your task to guess their whereabouts.
 
